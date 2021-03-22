@@ -1,6 +1,10 @@
 package ru.geekbrains.lesson2_3;
 
-import java.util.*;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
 
 public class PhoneBook {
     private final Map<String, Set<String>> book;
